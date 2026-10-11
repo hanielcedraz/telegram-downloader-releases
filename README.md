@@ -5,11 +5,9 @@ arquivos de grupos e canais do Telegram de forma organizada** — pensado para
 quem junta modelos 3D (`.stl`, `.3mf`, `.obj`, `.step`, `.gcode`...), mas que
 funciona com qualquer tipo de arquivo.
 
-Este repositório publica **só os programas prontos** (aba
-[Releases](../../releases/latest)). Não é preciso instalar Python nem nenhuma
-biblioteca: baixe, abra e use.
-
-> O código-fonte é mantido em um repositório privado.
+Aqui você encontra os programas prontos para uso, na aba
+[Releases](../../releases/latest). Não precisa instalar Python nem nenhuma
+biblioteca: é só baixar, abrir e usar.
 
 ---
 
